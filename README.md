@@ -6,7 +6,6 @@ Built from the supplied Handover / Take Back Sheet and the DGSL Site Register ex
 - DGSL-style dashboard and work permit register
 - Search and status filters
 - 5 blocks / 30 apartments pre-loaded
-- Apartment type and bedroom area data
 - Handover form
 - Handover checklist based on the supplied example
 - Take Back section in the form
